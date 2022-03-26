@@ -4,5 +4,9 @@ The problem appeared when I've found out that rapid-api for downloading sound tr
 
 To install all dependencies (only requests actually, but anyway):
 ```
-pip install requirements.txt
+pip3 install -r requirements.txt
+```
+or 
+```
+pip install -r requirements.txt
 ```
